@@ -35,7 +35,12 @@ body{
 
 .header{
     grid-area: header;
-    background-color: aqua;
+    background-color: #4c4c59;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
 }
 
 .navbar{
